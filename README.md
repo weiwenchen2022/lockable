@@ -1,6 +1,6 @@
 # lockable
 
-package lockable defines Lockable type to help construct concurrent use struct.
+Package lockable defines Lockable type to help construct concurrent use struct.
 
 ## Install
 

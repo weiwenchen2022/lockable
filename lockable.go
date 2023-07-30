@@ -1,3 +1,4 @@
+// Package lockable defines Lockable type to help construct concurrent use struct.
 package lockable
 
 import (
